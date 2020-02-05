@@ -31,6 +31,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -41,6 +42,7 @@
             <path>
               <item name="lab4" type="b2602c69:ProjectViewProjectNode" />
               <item name="lab4" type="462c0819:PsiDirectoryNode" />
+
               <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -52,7 +54,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
